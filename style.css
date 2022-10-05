@@ -19,6 +19,16 @@
     width: 490px;
     margin-left: 10vw;
   }
+  .lng-option {
+    font-size: 28px;
+    color: #2a2438;
+    text-decoration: none;
+    position: relative;
+    left: 900px;
+    top: 8px;
+    padding: 10px;
+    
+  }
   .name { 
     background-color: #2a2438;
     height: 100px;
