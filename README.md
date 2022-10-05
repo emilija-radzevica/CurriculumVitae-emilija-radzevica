@@ -8,5 +8,3 @@ Contains:</br>
 <li>my previous job experiences</li>
 <li>my language(spoken lang. <strong>not coding</strong> lang.) knowledge</li>
 </ul>
-
-some changes to see if git pull works
