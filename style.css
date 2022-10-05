@@ -42,7 +42,7 @@
   .contact {
     font-size: 27px;
     line-height: 40px;
-    padding-bottom: 50px
+    padding-bottom: 20px
   }
   .link {
     color: #dbd8e3;
@@ -53,8 +53,20 @@
     box-shadow: 2px 2px;
     transition: 0.5s;
   }
+  .about {
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 20px;
+  }
+  .line {
+    height: 2px;
+    width: 100%;
+    background-color: #dbd8e3;
+    display: block;
+    margin: 20px 0px 20px 0px;
+  }
   .language {
-    font-size: 23px;
+    font-size: 21px;
     padding-bottom: 10px;
     padding-top: 10px;
   }
